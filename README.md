@@ -9,3 +9,11 @@
 >Git,
 >GitHub,
 >Visual Studio Code.
+
+
+<div>
+  <img src= "https://github.com/user-attachments/assets/d8c1d93c-2a26-41c3-8afa-417847493978" width="350" height="230"> 
+</div>
+
+## Absolute Cinema ✋🧑‍🦱✋
+
